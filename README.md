@@ -41,7 +41,9 @@ The dashboard analyzes 4 years of global sales data (2016–2019) and provides i
 - Designing interactive dashboards  
 - Data storytelling using visuals  
 
+## 📈 Dashboard Preview
+![Dashboard Preview](Dashboard.jpg)
 
 ## 📌 Author
-**Subha**  
-Aspiring Data Analyst | Power BI Enthusiast
+**Subhradip**  
+Aspiring Data Analyst
